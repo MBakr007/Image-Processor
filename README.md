@@ -1,10 +1,8 @@
 # Image-Processor
 
 The goal of the repository is to develop an image processing tool that can apply different filters (changes) to a given gray (and colored) bit map image of size 256 x 256 and includes
-two types of image processing:
-
-#### Black white Image Processor
-#### Coloured Image Processor
+two types of image processing: 
+#### Black white Image Processor, Coloured Image Processor
 
 
 ### the operations are : 
