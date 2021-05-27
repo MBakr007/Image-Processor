@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1582036318 source:f:\fci\4th year\second term\compilers\coloured image processor\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<cmath>
+	"bmplib.cpp"
+
+1582036318 f:\fci\4th year\second term\compilers\coloured image processor\bmplib.cpp
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	"bmplib.h"
+	"unistd.h"
+
+1582036318 f:\fci\4th year\second term\compilers\coloured image processor\bmplib.h
+
